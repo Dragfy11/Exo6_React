@@ -1,10 +1,13 @@
 import React, { Component } from 'react'
 import './SearchBar.css'
-
 class SearchBar extends Component {
     render() {
         return (
-            <div>
+            <div className="dFlex">
+                <p className="blanc">Search: </p>
+                <input type="text"/>
+                <button className="riche">Go</button>
+                    
                 
             </div>
         )

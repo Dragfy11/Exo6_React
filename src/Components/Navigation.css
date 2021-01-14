@@ -1,0 +1,18 @@
+button{
+    color: white;
+    background-color: gray;
+    border: greenyellow 1px solid;
+    margin: 15px 7px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+.BoutonD{
+    margin-left: 50px;
+}
+
+.riche{
+    background-color: turquoise;
+    border: turquoise 1px solid;
+}
+
